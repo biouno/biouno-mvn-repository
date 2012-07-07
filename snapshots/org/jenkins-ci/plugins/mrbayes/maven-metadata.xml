@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jenkins-ci.plugins</groupId>
+  <artifactId>mrbayes</artifactId>
+  <versioning>
+    <release>0.1-SNAPHOST</release>
+    <versions>
+      <version>0.1-SNAPHOST</version>
+    </versions>
+    <lastUpdated>20120707053736</lastUpdated>
+  </versioning>
+</metadata>
